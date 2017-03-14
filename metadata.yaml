@@ -1,5 +1,8 @@
 _repo: Jacob-s-Room_5670
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Woolf, Virginia
@@ -23,6 +26,8 @@ description: "Jacob's Room is the third novel by Virginia Woolf, first published
   \ better to view him as an amalgam of the different perceptions of the characters\
   \ and narrator. He does not exist as a concrete reality, but rather as a collection\
   \ of memories and sensations.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5670#Jacob-s-Room
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
